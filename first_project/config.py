@@ -1,1 +1,1 @@
-Token_Api = '6616888226:AAEeWBUY87inGMaT6MaJ_5Mxr_N1ml6I7mQ'
+Token_Api = 'Ваш токен'
